@@ -1,4 +1,5 @@
 const config = {
+  base: '/gitprofile/', 
   github: {
     username: 'FlanChanXwO', 
   },
